@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1009780613631",
+    "project_id": "authentication-91936",
+    "storage_bucket": "authentication-91936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009780613631:android:92ddbabb193dfaeb4e07ca",
+        "android_client_info": {
+          "package_name": "com.example.bakery_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009780613631-orhl92s211kvlesgdj7r785vb9p1ciln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-BetjNP1DJfYQeq4PtCt570ROv--DxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009780613631-orhl92s211kvlesgdj7r785vb9p1ciln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009780613631:android:8538dc5672d1b4714e07ca",
+        "android_client_info": {
+          "package_name": "com.example.bakery_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009780613631-orhl92s211kvlesgdj7r785vb9p1ciln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-BetjNP1DJfYQeq4PtCt570ROv--DxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009780613631-orhl92s211kvlesgdj7r785vb9p1ciln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
